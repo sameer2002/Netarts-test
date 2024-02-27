@@ -39,9 +39,9 @@ const Home=()=>{
            <p>CHEMICALS  <span class="vertical-line"></span> PROCESS POWER WATER <span class="vertical-line"></span> WASTE WATER OILS <span class="vertical-line"></span> GAS PHARMA SUGARS <span class="vertical-line"></span> DISTILLERIES PAPER <span class="vertical-line"></span> PULP MARINE <span class="vertical-line"></span> DEFENCE METAL <span class="vertical-line"></span> MINING FOOD <span class="vertical-line"></span> BEVERAGE PETROCHEMICAL <span class="vertical-line"></span> REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE <span class="vertical-line"></span> RESIDENTIAL</p>
         </div>
         <div className="contact">
-      <a href="#"><CallRoundedIcon style={{ fontSize: '30px' }} />Toll free 1800 200 1234</a>
-      <a href="#"><FacebookOutlinedIcon style={{ fontSize: '30px' }} />www.facebook.com/cripumps</a>
-      <a href="#"><LanguageOutlinedIcon style={{ fontSize: '30px' }} />www.crigroups.com</a>
+      <a href="tel:1800 200 1234"><CallRoundedIcon style={{ fontSize: '30px' }} />Toll free 1800 200 1234</a>
+      <a href="www.facebook.com/cripumps"><FacebookOutlinedIcon style={{ fontSize: '30px' }} />www.facebook.com/cripumps</a>
+      <a href="www.crigroups.com"><LanguageOutlinedIcon style={{ fontSize: '30px' }} />www.crigroups.com</a>
     </div>
        </footer>
        </>
